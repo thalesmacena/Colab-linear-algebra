@@ -1,5 +1,5 @@
 # Linear algebra and computation
-This repository aims to show experiments based on linear algebra and how various things in computing are and can be done using these concepts. All of these projects were done during the teaching of the Algebra Linear Algorithmic discipline at the Universidade Federal do Rio de Janeiro taught by professor Juliana V. Valério.
+This repository aims to show experiments based on linear algebra and how various things in computing are and can be done using these concepts. All of these projects were done during the teaching of the Algebra Linear Algorithmic discipline at the [Universidade Federal do Rio de Janeiro](https://ufrj.br/en/) taught by professor Juliana V. Valério.
 
 **Unfortunately the explanation and comments are still in Portuguese**
 
