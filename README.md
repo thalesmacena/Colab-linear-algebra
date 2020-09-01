@@ -9,15 +9,18 @@ Bouncing ball shows how vectors and their concepts can be used to describe movem
 
 ## Aproximação por minimos quadrados / Least squares approach
 
-The purpose of these functions is to approximate functions by the least squares method based on data sheets.
+The purpose of these functions is to approximate functions by the [least squares](https://en.wikipedia.org/wiki/Least_squares) method based on data sheets.
 
 ## Gram Schmidt
 
-The purpose of these functions is to perform the Gram Schmidt method to obtain orthonormal bases and to visualize them clearly.
+The purpose of these functions is to perform the [Gram Schmidt process](https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process) to obtain orthonormal bases and to visualize them clearly.
+
+## Leslie
+This function aims to create a [Leslie matrix](https://en.wikipedia.org/wiki/Leslie_matrix) of size N.
 
 ## Gráfico de Filmes em 2D usando SVD / 2D Film Graphics using SVD
 
-This is my final project for the course, which aims to show an application of the SVD (singular value decomposition) method. 
+This is my final project for the course, which aims to show an application of the [SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition) (singular value decomposition) method. 
 
 With a database of dozens of personal opinions about different films, using SVD, I can break them down into R².The advantage of doing this is that the X and Y imaginary axes (which do not cut x0 and y0) have meaning. The vertical corresponds to the mood of the films, the higher the more the genre of comedy is the user's taste, while the lower the less comedy is seen in the films. While the horizontal axis indicates whether the film is dramatic, the farther to the left the more dramatic the more to the right the less drama is seen.
 
