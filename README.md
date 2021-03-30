@@ -1,24 +1,63 @@
-# Linear algebra and computation
+<div align="center">
+  <br />
+  <img src=".github/banner.svg" width="546" alt="Colab Linear Algebra" />
+  <br />
+  <p>
+    <img src="https://img.shields.io/badge/made%20by-Thales%20Macena-2D325E?labelColor=F0DB4F&style=for-the-badge&logo=visual-studio-code&logoColor=2D325E" alt="Made by Thales Macena">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/thalesmacena/Colab-linear-algebra?color=2D325E&labelColor=F0DB4F&style=for-the-badge&logo=python&logoColor=2D325E">
+    <a href="https://github.com/thalesmacena/Colab-linear-algebra/commits/master">
+      <img alt="Last Commits" src="https://img.shields.io/github/last-commit/thalesmacena/Colab-linear-algebra?color=2D325E&labelColor=F0DB4F&style=for-the-badge&logo=github&logoColor=2D325E">
+    </a>
+<a href="https://github.com/thalesmacena/Colab-linear-algebra/issues"><img alt="Top Language" src="https://img.shields.io/github/issues-raw/thalesmacena/Colab-linear-algebra?color=2D325E&labelColor=F0DB4F&style=for-the-badge&logo=github&logoColor=2D325E"></a>
+  </p>
+</div>
+
+## 🗂 Table of Contents
+- [🗂 Table of Contents](#-table-of-contents)
+- [📑 About](#-about)
+- [💻 Technologies](#-technologies)
+- [💡 Projects](#-projects)
+  - [⚽ Bouncing Ball](#-bouncing-ball)
+  - [◻️ Aproximação por minimos quadrados / Least squares approach](#️-aproximação-por-minimos-quadrados--least-squares-approach)
+  - [↔️ Gram Schmidt](#️-gram-schmidt)
+  - [🐋 Leslie](#-leslie)
+  - [🎞️ Gráfico de Filmes em 2D usando SVD / 2D Film Graphics using SVD](#️-gráfico-de-filmes-em-2d-usando-svd--2d-film-graphics-using-svd)
+  
+  
+## 📑 About
+
 This repository aims to show experiments based on linear algebra and how various things in computing are and can be done using these concepts. All of these projects were done during the teaching of the Algebra Linear Algorithmic discipline at the [Universidade Federal do Rio de Janeiro](https://ufrj.br/en/) taught by professor Juliana V. Valério.
 
 **Unfortunately the explanation and comments are still in Portuguese**
 
-## Bouncing Ball
+## 💻 Technologies
+
+<a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/-Google%20Colaboratory-2D325E?labelColor=F0DB4F&style=for-the-badge&logo=google-colab&logoColor=2D325E" alt="Google Colab"></a>
+
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-2D325E?labelColor=F0DB4F&style=for-the-badge&logo=python&logoColor=2D325E" alt="Python"></a>
+
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-2D325E?labelColor=F0DB4F&style=for-the-badge&logo=pandas&logoColor=2D325E" alt="Pandas"></a>
+
+<a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/-matplotlib-2D325E?labelColor=F0DB4F&style=for-the-badge&logo=python&logoColor=2D325E" alt="Matplotlib"></a>
+
+## 💡 Projects
+
+### ⚽ Bouncing Ball
 
 Bouncing ball shows how vectors and their concepts can be used to describe movement
 
-## Aproximação por minimos quadrados / Least squares approach
+### ◻️ Aproximação por minimos quadrados / Least squares approach
 
 The purpose of these functions is to approximate functions by the [least squares](https://en.wikipedia.org/wiki/Least_squares) method based on data sheets.
 
-## Gram Schmidt
+### ↔️ Gram Schmidt
 
 The purpose of these functions is to perform the [Gram Schmidt process](https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process) to obtain orthonormal bases and to visualize them clearly.
 
-## Leslie
+### 🐋 Leslie
 This function aims to create a [Leslie matrix](https://en.wikipedia.org/wiki/Leslie_matrix) of size N.
 
-## Gráfico de Filmes em 2D usando SVD / 2D Film Graphics using SVD
+### 🎞️ Gráfico de Filmes em 2D usando SVD / 2D Film Graphics using SVD
 
 This is my final project for the course, which aims to show an application of the [SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition) (singular value decomposition) method. 
 
